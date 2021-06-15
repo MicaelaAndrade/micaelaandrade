@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi... 👋
 
 <div>
   <a href="https://github.com/micaelaandrade">
@@ -18,7 +18,7 @@
  
 <div> 
   
-  <a href = "mailto:micaela17andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:micaela.andrade@outlook.com.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micaela-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/micaelaandrade/micaelaandrade/blob/output/github-contribution-grid-snake.svg)
