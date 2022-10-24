@@ -11,7 +11,7 @@
   <img align="center" alt="Mica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Mica-yoda" height="150" width="200" src="https://media.giphy.com/media/kI2hsMDS4zjK7Fbif8/giphy.gif">
+  <img align="right" alt="Mica-yoda" height="150" width="200" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
 </div>
 
   ##
